@@ -1,4 +1,4 @@
-const socket = io.connect('https://cranky-easley-7b8522.netlify.app/');
+const socket = io.connect('https://localhost:8081');
 
 
 const output = document.querySelector('#output');
